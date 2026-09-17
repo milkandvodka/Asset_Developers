@@ -16,9 +16,6 @@ export default function Contact() {
           visit to India World Mart, Sector 88A, Gurugram.
         </p>
         <div className="contact-actions">
-          <a className="btn primary" href="tel:+919164001144">
-            Call +91 91640 01144
-          </a>
           <a className="btn primary" href="tel:+918796204734">
             Call +91 87962 04734
           </a>

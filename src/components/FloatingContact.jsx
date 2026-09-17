@@ -15,7 +15,7 @@ export default function FloatingContact() {
       <a href="#contact" className="fc-btn fc-enquire">
         Enquire Now
       </a>
-      <a href="tel:+919164001144" className="fc-btn fc-call" aria-label="Call Asset Developers">
+      <a href="tel:+918796204734" className="fc-btn fc-call" aria-label="Call Asset Developers">
         <span className="fc-ring" aria-hidden="true" />
         <span className="fc-icon" aria-hidden="true">&#9742;</span>
       </a>
