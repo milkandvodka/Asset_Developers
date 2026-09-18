@@ -207,6 +207,9 @@
 
 /* ---------- Trust marquee ---------- */
 .trust-marquee {
+  position: sticky;
+  top: 52px; /* height of the scrolled nav, so the strip parks right under it */
+  z-index: 90;
   background: var(--navy-panel);
   border-top: 1px solid var(--navy-line);
   border-bottom: 1px solid var(--navy-line);
@@ -427,7 +430,7 @@
 /* ---------- Scroll offset so fixed nav never overlaps a jump target ---------- */
 section,
 #hero {
-  scroll-margin-top: 88px;
+  scroll-margin-top: 132px; /* fixed nav + sticky trust strip */
 }
 
 /* ---------- Callback CTA ---------- */

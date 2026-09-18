@@ -14,6 +14,8 @@ export const trustMarquee = [
   'Freehold Ownership',
   '15 Min to IGI Airport',
   'Basement + Ground + 4 Floors',
+  'Large FDI Developer Launching 20+ Lac Sq Ft of Premium Luxury Space',
+  'Part of a 30-Acre Master-Planned Campus',
 ];
 
 export const heroBadges = [
